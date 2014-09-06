@@ -1,0 +1,10 @@
+* { margin: 0 }
+a:visited, a:link, a:hover, a:active { text-decoration: none; color: white; }
+body { background: #060606; color: white; font-size: 16px; font-family: Arial,'Droid Serif'; text-align: center; }
+header { min-height: 146px; background: url(../../images/bgheader.png) repeat-x; border-top: 4px solid #059BE8; width: 100%; display: block; }
+header .headers ul { display: block; padding: 0px; width: 100%; }
+header .headers ul li { display: inline }
+header .headers ul li a { color: #FFFFFF; float: left; font-size: 1.125em; height: 36px; line-height: 32px; margin: 0 2px; padding: 0 14px; text-align: center; }
+header .headers ul li a:hover { background-color: #00A1FF; transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; -webkit-transition: all 0.3s ease; }
+.linkas { text-align: left !important }
+h1, h2, h3 { text-align: center; padding: 0; }
